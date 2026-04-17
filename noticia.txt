@@ -1,0 +1,52 @@
+<h1> 17/04/2026
+<h1> Fichan a Lucho Diaz en el Real madrid </h1>
+<style>
+h1 {
+color:white;
+font-size:70px;
+font-family:Times new roman;
+text-align:left;
+background-color:white;
+}
+</style>
+<h1> LUCHO DIAZ NUEVO JUGADOR DEL REAL  MADRID </h1>
+<style>
+h1 {
+color:white;
+font-size:40px;
+font-family:Times new roman;
+text-align:left;
+background-color:black;
+}
+</style>
+<img class="foto" src="https://intn24.lalr.co/cms/2026/02/04153034/Luis-Diaz-1.jpg?w=480">
+<style>
+.foto{
+width:px;
+height:250px;
+display:block;
+margin:auto;
+}
+</style>
+<style>
+body{
+background-color:#FFF8ED;
+font-family:Arial;
+margin:40px;
+}
+</style>
+ ÚLTIMA HORA: Luis Díaz es nuevo jugador del Real Madrid
+El Real Madrid ha hecho oficial este viernes el fichaje del extremo colombiano Luis Díaz, en una operación que ha sorprendido al mundo del fútbol.
+Según fuentes cercanas al club, el traspaso se habría cerrado por una cifra cercana a los 95 millones de euros, convirtiéndose en uno de los fichajes más importantes del mercado.
+El jugador, que venía de brillar con el Bayern Múnich —incluyendo actuaciones decisivas en la Champions League— llega como una apuesta directa del presidente Florentino Pérez para reforzar el ataque blanco.
+ Presentación en el Santiago Bernabéu
+Díaz fue presentado oficialmente en el Estadio Santiago Bernabéu ante miles de aficionados. Vestido con la camiseta blanca y el dorsal 11, el colombiano declaró:
+
+“Es un sueño hecho realidad. Siempre quise jugar en el mejor club del mundo”.
+
+El extremo firmó contrato por cinco temporadas y se espera que sea una pieza clave en el nuevo proyecto deportivo del club.
+ Un fichaje estratégico
+El Real Madrid venía buscando reforzar su ataque tras una temporada irregular en Europa, y la llegada de Díaz responde a la necesidad de velocidad, desborde y gol por las bandas.
+Su rendimiento reciente, donde incluso fue protagonista eliminando al propio Madrid en Champions, lo posicionó como uno de los jugadores más deseados del mercado internacional .
+ Reacción de los aficionados
+Las redes sociales explotaron tras el anuncio, con miles de aficionados celebrando la llegada del colombiano. Muchos ya lo comparan con grandes extremos que han pasado por el club.
